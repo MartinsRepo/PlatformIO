@@ -12,6 +12,7 @@
 #define RX_PIN 2
 #define TX_PIN 3
 
+
 // SoftwareSerial anlegen
 SoftwareSerial sensorSerial(RX_PIN, TX_PIN);  // RX, TX
 
